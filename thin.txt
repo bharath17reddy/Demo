@@ -5,3 +5,5 @@ sbb
 fit
 bit
 byte
+right
+left
