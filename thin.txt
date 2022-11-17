@@ -1,9 +1,3 @@
-grsfb
-segds
-
-sbb
-fit
-bit
-byte
-right
-left
+ sai
+ ram
+ krishna
